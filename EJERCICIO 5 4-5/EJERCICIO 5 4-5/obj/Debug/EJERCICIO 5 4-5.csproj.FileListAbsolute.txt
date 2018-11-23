@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\EJERCICIO 5 4-5\EJERCICIO 5 4-5\bin\Debug\EJERCICIO 5 4-5.exe.config
+C:\Users\Acer\source\repos\EJERCICIO 5 4-5\EJERCICIO 5 4-5\bin\Debug\EJERCICIO 5 4-5.exe
+C:\Users\Acer\source\repos\EJERCICIO 5 4-5\EJERCICIO 5 4-5\bin\Debug\EJERCICIO 5 4-5.pdb
+C:\Users\Acer\source\repos\EJERCICIO 5 4-5\EJERCICIO 5 4-5\obj\Debug\EJERCICIO 5 4-5.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\EJERCICIO 5 4-5\EJERCICIO 5 4-5\obj\Debug\EJERCICIO 5 4-5.exe
+C:\Users\Acer\source\repos\EJERCICIO 5 4-5\EJERCICIO 5 4-5\obj\Debug\EJERCICIO 5 4-5.pdb
